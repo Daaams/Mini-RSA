@@ -1,9 +1,5 @@
 # Little RSA
 
-## Project Presentation
-
-[Project Indications](minirsa.pdf)
-
 ## Goals
 
 The main goal of this project is to develop foundamentals principals of cryptography. This project is based on the the RSA (Rivest-Shamir-Adleman) algorithm.
